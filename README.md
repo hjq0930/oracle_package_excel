@@ -1,2 +1,3 @@
 # oracle_package_excel
-oracle_package_excel is a oracle package for generating MS Excel spreadsheet files.
+**EXCEL_GENERATOR.pck** is the package for generating MS Excel spreadsheet files (.xlsx).  
+**DATA_EXPORT.pck** is the example of exporting oracle table data into Excel spreadsheet files.
